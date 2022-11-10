@@ -1,0 +1,58 @@
+---
+title: "Barcoding graph code"
+author: "Daniel Hu"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r}
+# reading the class data 
+class_data <- read_csv("2022_EEB382_Barcoding_ClassData.csv")
+```
+How often are fish misidentified/mislabelled? What are some plausible reasons 
+for misidentification/mislabelling
+```{r}
+# Graph 1: Common Name Matches Exactly with Blasted Common Name 
+# 
+# Summary(class_data) # 57 total samples 
+# Adding New column whose values state whether common Name == Blasted Name
+new_data <- class_data %>% 
+  mutate(correctly_labelled = 
+           case_when(toupper(`Sample was labelled`) ==
+                      toupper(`Common name (BLAST match)`)~"Yes",
+                     toupper(`Sample was labelled`) !=
+                      toupper(`Common name (BLAST match)`)~"No")) %>% 
+  group_by(correctly_labelled) %>% 
+  tally() %>% 
+  ggplot(aes(y=n, x=correctly_labelled)) + geom_bar(stat = "identity") + 
+  labs(title = "Number of Samples Labelled Correctly Verified By Barcoding", x=
+         "Was the Fish Labelled Correctly?", y= "Number of Sample") + theme_classic()
+
+new_data
+
+  
+```
+
+
+
+
+
+What are the frequencies of the IUCN categories and what does this suggest about 
+the sustainability of the Toronto fish trade?  
+```{r}
+class_data %>% 
+  mutate(status = toupper(`IUCN status`)) %>% 
+  group_by(status) %>% 
+  tally() %>% 
+  ggplot(aes(y=n, x= status)) + geom_bar(stat = "identity") + labs(title = 
+  "IUCN Status of Sampled Fish Species", x = "IUCN Category", y = "Number of 
+  Samples") + theme_classic()
+  
+
+```
+
+
