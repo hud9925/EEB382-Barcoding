@@ -1,0 +1,58 @@
+﻿Sample was labelled,"Grocer, G, or Restaurant, R",Species associated with common name,Other taxa associated with common name,Top BLAST match,Common name (BLAST match),Worldwide distribution,IUCN status
+Tuna,R,No single species,All species within Thunnini,Thunnus alalunga,Albacore tuna,"All tropical and termperate oceans, Mediterranean sea",Near Threatened
+Kingfish,G,No single species,"Menticirrhus sp., Scomberomorus sp., Caranx sp., Lampris sp., Seriola sp.",Scomberomorus commerson,Narrow-barred Spanish mackerel,"Temperate waters in the Indo-Pacific, eastern Pacific, and Eastern Atlantic oceans",Near Threatened
+Red Tuna,R,All species within Scombridae,All species within Thunnini,Thunnus albacares,Yellowfin Tuna,Worldwide in tropical and subtropical seas,Near Threatened
+Red Snapper,R, Lutjanus campechanus,"Lutjanus sp., Sebastes sp., Centroberyx affinis, Etelis carbunculus, E. coruscans and E. oculatus",Oreochromis niloticus,Nile Tilapia,"Tropical/Subtropical Africa (Primarily the Nile, West Africa, and coastal Israel)",Not Evaluated
+Seer Fish,G,"species of mackerel, bonitos and tuna",subfamily of the Scombridae family,Scomberomorus cavalla,King Mackerel,Western Atlantic,Least Concern
+Shark,G,No single species,Selachimorpha,Carcharhinus brevipinna,Spinner Shark,Warm coastal waters of western and eastern Atlantic; Indian Ocean; western Pacific,Near Threatened
+Blue Mackerel,G,Scomber australasicus,None,Scomber scombrus,Atlantic mackerel,North Atlantic,Least concern
+Yellowfin Tuna,R,Thunnus albacares,None,Thunnus albacares,Yellowfin tuna,Worldwide in tropical and subtropical seas,Near threatened
+Pickerel,G,No single species,Esox niger and E. Americanus,Sander vitreus,Walleye,"Canada, Northern United States",Not Evaluated
+White Tuna,Other,Thunnus alalunga,Gymnosarda unicolor,Lepidocybium flavobrunneum,Escolar,Deep (200-1100 ft) tropical and temperate oceans worldwide,Not Evaluated
+Tuna,G,No single species,All species within Thunnini,Thunnus albacares,Yellowfin Tuna,Tropical and subtropical oceans worldwide,Near Threatened
+Tuna,R,No single species,All species within Thunnini,Oreochromis mossambicus,Mozambique Tilapia,Tropical/Subtropical Africa,Near Threatened
+Monkfish,G,No single species,Members of the genus Lophius,Lophius piscatorius ,Monkfish,"Northeast Atlantic from Barents Sea to Strait of Gibraltar, Mediterranean and Black Sea",Least Concern
+Halibut,G,Hippoglossus hippoglossus and H. stenolepis,"Some species within Pleuronectidae, Paralichthyidae, Psettodidae and Carangidae",Hippoglossus stenolepis,Pacific Halibut,Continental shelf of North Pacific Ocean and Bering Sea,Not evaluated
+Haddock,G,Melanogrammus aeglefinus,None,Melanogrammus aeglefinus,Haddock,North Atlantic,Vulnerable
+Marlin,G,"No single species. Istiompax (Black marlin, I. indica), Makaira (Atlantic blue marlin, M. nigricans; Indo-Pacific blue marlin, M. mazara), Kajikia (White marline, K. albida; Striped marlin, K. audax).","Makaira sp., Tetrapturus sp.",Makaira nigricans,Atlantic blue marlin,Atlantic/Pacific/Indian Ocean: tropical/temperate waters,Vulnerable
+Halibut,G,Hippoglossus hippoglossus and H. stenolepis,"Some species within Pleuronectidae, Paralichthyidae, Psettodidae and Carangidae",Hippoglossus hippoglossus,Atlantic Halibut,North Atlantic,Endangered
+Halibut,R,Hippoglossus hippoglossus and H. stenolepis,"Some species within Pleuronectidae, Paralichthyidae, Psettodidae and Carangidae",Hippoglossus hippoglossus,Atlantic Halibut,"Northern atlantic, Labrador, Greenland to Iceland, Barents Sea, Bay of Bistcay and Virginia",Endangered
+Halibut,R,Hippoglossus hippoglossus and H. stenolepis,"Some species within Pleuronectidae, Paralichthyidae, Psettodidae and Carangidae",Hippoglossus hippoglossus,Atlantic Halibut,"Northern atlantic, Labrador, Greenland to Iceland, Barents Sea, Bay of Bistcay and Virginia",Endangered
+Tuna,Other,No single species,"Cybiosarda sp., Katsuwonus sp., Thunnus sp., Auxis sp., Allothunnus sp., Gymnosarda sp., Euthynnus sp.,",Thunnus obesus ,Bigeye Tuna,"Open waters of all tropical and temperate oceans, but not the Mediterrenean Sea",Vulnerable
+Shark,G,No single species,Selachimorpha,Carcharhinus brevipinna,Spinner Shark,Warm coastal waters of western and eastern Atlantic; Indian Ocean; western Pacific,Near Threatened
+Sea Bass,G,No single species,"Serranidae, Lates calcarifer, Dissostichus eleginoides, Dicentrarchus labrax, Stereolepsis gigas, Lateolabrax japonicus, Cynoscion nobilis",Micropterus salmoides,Largemouth bass ,Eastern North America,Not Evaluated
+Tuna,R,No single species,All species within Thunnini,Thunnus albacares,Yellowfin tuna,Worldwide in tropical and subtropical seas,Near threatened
+Yellowtail,R,No single species,"Seriola sp., Caesio sp., Trachurus sp., Ocyurus., Chloroscombrus sp., Limanda sp., Plectroglyphidodon sp.",Seriola quinqueradiata,Japanese amberjack,Northwest Pacific,Not Evaluated
+Tuna,R,No single species,All species within Thunnini,Thunnus albacares,Yellowfin Tuna,Worldwide in tropical and subtropical seas,Near Threatened
+Halibut,G,Hippoglossus hippoglossus and H. stenolepis,"Some species within Pleuronectidae, Paralichthyidae, Psettodidae and Carangidae",Hippoglossus hippoglossus,Atlantic Halibut,North Atlantic,Endangered
+Red Tuna,R,No single species,All species within Thunnini,Thunnus albacares,Yellowfin Tuna,Worldwide in tropical and subtropical seas,Near Threatened
+Seer Fish,G,No single species,subfamily of the Scombridae family,Scomberomorus cavalla,King Mackerel,Western Atlantic,Least Concern
+Halibut,G,Hippoglossus hippoglossus and H. stenolepis,"Some species within Pleuronectidae, Paralichthyidae, Psettodidae and Carangidae",Hippoglossus stenolepis,Pacific Halibut,Continental shelf of North Pacific Ocean and Bering Sea,Not evaluated
+Yellowtail,R,No single species,"Seriola sp., Caesio sp., Trachurus sp., Ocyurus., Chloroscombrus sp., Limanda sp., Plectroglyphidodon sp.",Seriola quinqueradiata,Japanese amberjack,Northwest Pacific,Not Evaluated
+Tuna,R,No single species,All species within Thunnini,Oreochromis mossambicus,Mozambique Tilapia,Tropical/Subtropical Africa,Near Threatened
+Shark,G,No single species,Selachimorpha,Carcharhinus leucas,Bull Shark,"Worldwide, warm ocean, costal area, some fresh water habitats",Near Threatened
+Tuna,R,No single species,All species within Thunnini,Oreochromis mossambicus,Mozambique Tilapia,Tropical/Subtropical Africa,Near Threatened
+Flatfish,R,No single species,Members of the order Pleuronectiformes,Syacium papillosum,Dusky Flounder,"Western Atlantic, Gulf of Mexico to Brazil",Not Evaluated
+Red Snapper,Other, Lutjanus campechanus,"Lutjanus sp., Sebastes sp., Centroberyx affinis, Etelis carbunculus, E. coruscans and E. oculatus",Oreochromis niloticus,Nile Tilapia,Tropical/Subtropical Africa,Not Evaluated
+Yellowtail,R,No single species,"Seriola sp., Caesio sp., Trachurus sp., Ocyurus., Chloroscombrus sp., Limanda sp., Plectroglyphidodon sp.",Seriola quinqueradiata,Japanese amberjack,Northwest Pacific,Not Evaluated
+Tuna,R,No single species,All species within Thunnini,Thunnus alalunga,Albacore tuna,"All tropical and termperate oceans, Mediterranean sea",Near Threatened
+Kingfish,G,No single species,"Menticirrhus sp., Scomberomorus sp., Caranx sp., Lampris sp., Seriola sp.",Scomberomorus commerson,Narrow-barred Spanish mackerel,"Temperate waters in the Indo-Pacific, eastern Pacific, and Eastern Atlantic oceans",Near Threatened
+Red Tuna,R,No single species,All species within Thunnini,Thunnus albacares,Yellowfin Tuna,Worldwide in tropical and subtropical seas,Near Threatened
+Tuna,R,No single species,All species within Thunnini,Thunnus albacares,Yellowfin tuna,Worldwide in tropical and subtropical seas,Near threatened
+Perch,G,No single species,"Perca fluviatilis, Perca schrenkii, Perca flavescens",Sebastes sp.,Rockfish,"north Pacific, south Pacific/Atlantic, north Atlantic",Not Evaluated
+Yellowfin Tuna,R,Thunnus albacares,None,Thunnus albacares,Yellowfin tuna,Worldwide in tropical and subtropical seas,Near threatened
+Pickerel,G,No single species,Esox niger and E. Americanus,Sander vitreus,Walleye,"Canada, Northern United States",Not Evaluated
+White Tuna,Other,Thunnus alalunga,Gymnosarda unicolor,Lepidocybium flavobrunneum,Escolar,Deep (200-1100 ft) tropical and temperate oceans worldwide,Not Evaluated
+Tuna,G,No single species,All species within Thunnini,Thunnus albacares,Yellowfin Tuna,Tropical and subtropical oceans worldwide,Near Threatened
+Red Snapper,Other, Lutjanus campechanus,"Lutjanus sp., Sebastes sp., Centroberyx affinis, Etelis carbunculus, E. coruscans and E. oculatus",Oreochromis niloticus,Nile Tilapia,Tropical/Subtropical Africa,Not Evaluated
+Yellowfin Tuna,R,Thunnus albacares,None,Thunnus albacares,Yellowfin tuna,Worldwide in tropical and subtropical seas,Near threatened
+Red Tuna,R,No single species,"Allothunnus sp., Auxis sp., Euthynnus sp., Katsouwonus sp., Thunnus sp.",Thunnus obesus,Bigeye Tuna,"Open waters of all tropical and temperate oceans, but not the Mediterrenean Sea",Vulnerable
+Haddock,G,Melanogrammus aeglefinus,None,Melanogrammus aeglefinus,Haddock,North Atlantic,Vulnerable
+Kingfish,G,No single species,"Menticirrhus sp., Scomberomorus sp., Caranx sp., Lampris sp., Seriola sp.",Scomberomorus commerson,Narrow-barred Spanish mackerel,"Temperate waters in the Indo-Pacific, eastern Pacific, and Eastern Atlantic oceans",Near Threatened
+Yellowtail,Other,No single species,"Seriola sp., Caesio sp., Trachurus sp., Ocyurus., Chloroscombrus sp., Limanda sp., Plectroglyphidodon sp.",Seriola quinqueradiata,Japanese amberjack,Northwest Pacific,Not Evaluated
+Red Tuna,R,No single species,All species within Thunnini,Thunnus albacares,Yellowfin Tuna,Worldwide in tropical and subtropical seas,Near Threatened
+Shark,G,No single species,Selachimorpha,Carcharhinus brevipinna,Spinner Shark,Warm coastal waters of western and eastern Atlantic; Indian Ocean; western Pacific,Near Threatened
+Tuna,R,No single species,All species within Thunnini,Thunnus alalunga,Albacore tuna,"All tropical and termperate oceans, Mediterranean sea",Near Threatened
+Yellowtail,R,No single species,"Seriola sp., Caesio sp., Trachurus sp., Ocyurus., Chloroscombrus sp., Limanda sp., Plectroglyphidodon sp.",Seriola quinqueradiata,Japanese amberjack,Northwest Pacific,Not Evaluated
+White tuna,R,Thunnus alalunga,Gymnosarda unicolor,Lepidocybium flavobrunneum,Escolar,"Deep tropical and temperate environments globally (Atlantic, Pacific and Indian Ocean)",Not Evaluated
+Seer Fish,G,No single species,subfamily of the Scombridae family,Scomberomorus cavalla,King Mackerel,Western Atlantic,Least Concern
